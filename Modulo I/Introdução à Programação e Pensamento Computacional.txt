@@ -1,0 +1,38 @@
+#Pesamento Computacional
+
+- Introdução  
+- Habilidade Complementares
+- Pilares: Decomposição
+- Pilares: Abstração
+- Pilares: Algoritimos
+- Estudo de caso conceitual: perdido
+- Estudo de Caso aplicado: Soma de intervalo
+- Estudo de caso aplicado: Adivinhe um número
+
+#Introdução a Lógica de Programção
+
+- O que é Lógica?
+- Técnicas de lógica de programação
+
+#Fundamentos de algoritimos
+
+- Tipologia e variáves
+- Instruções primitivas
+- Estruturas de repetição
+- Vetores e matrizes
+- O que são funções?
+
+#Linguagens de programação
+
+- Introdução à linguagens de programação
+- Como o computador entende o programa?
+- Características de um programa
+- Análise de código
+- Paradigmas de programação
+
+#Primeiro contato com a programação
+
+- Algoritimos em portugol
+- Considerações Finais
+
+ 
